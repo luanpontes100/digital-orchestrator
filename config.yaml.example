@@ -1,0 +1,4 @@
+kube_uuid: null
+postgres_uuid: null
+redis_uuid: null
+token: token_digital_ocean
